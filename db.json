@@ -6,6 +6,41 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "dougg@mail.com",
+      "password": "$2a$10$4mOb0b1vtLohDIZRVeAlQO.sZVr2UektOxOCYNGg.cepisICg18pa",
+      "name": "Dougg",
+      "age": "20",
+      "id": 2
+    },
+    {
+      "email": "douggteste@mail.com",
+      "password": "$2a$10$WbjrYv/0qrgbJNlbhsvbVOcRLivH75MH/Mq0ESAXAi.2oxldtJXRi",
+      "name": "Dougg teste",
+      "age": "20",
+      "id": 3
+    }
+  ],
+  "travel": [
+    {
+      "local": "são paulo",
+      "userId": 2,
+      "id": 2,
+      "month": "april",
+      "initialValue": 300,
+      "tours": 400,
+      "accommodation": 500,
+      "food": 500,
+      "transport": 600,
+      "shopping": 700,
+      "others": 200
+    },
+    {
+      "nome": "nova viagem",
+      "lugar": "Olinda",
+      "userId": 2,
+      "id": 3
     }
   ]
 }
