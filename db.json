@@ -4,21 +4,18 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
       "id": 1
     },
     {
       "email": "dougg@mail.com",
       "password": "$2a$10$4mOb0b1vtLohDIZRVeAlQO.sZVr2UektOxOCYNGg.cepisICg18pa",
       "name": "Dougg",
-      "age": "20",
       "id": 2
     },
     {
       "email": "douggteste@mail.com",
       "password": "$2a$10$WbjrYv/0qrgbJNlbhsvbVOcRLivH75MH/Mq0ESAXAi.2oxldtJXRi",
       "name": "Dougg teste",
-      "age": "20",
       "id": 3
     }
   ],
@@ -27,7 +24,7 @@
       "local": "são paulo",
       "userId": 2,
       "id": 2,
-      "month": "april",
+      "month": "abril",
       "initialValue": 300,
       "tours": 400,
       "accommodation": 500,
@@ -35,12 +32,36 @@
       "transport": 600,
       "shopping": 700,
       "others": 200
+    }
+  ],
+  "savings": [
+    {
+      "month": "maio",
+      "id": 1,
+      "value": 600,
+      "userId": 2,
+      "travelId": 2
     },
     {
-      "nome": "nova viagem",
-      "lugar": "Olinda",
+      "month": "junho",
+      "value": 800,
       "userId": 2,
+      "travelId": 2,
+      "id": 2
+    },
+    {
+      "month": "julho",
+      "value": 900,
+      "userId": 2,
+      "travelId": 2,
       "id": 3
+    },
+    {
+      "month": "agosto",
+      "value": 900,
+      "userId": 2,
+      "travelId": 2,
+      "id": 4
     }
   ]
 }
