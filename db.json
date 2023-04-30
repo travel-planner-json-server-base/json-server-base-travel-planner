@@ -55,6 +55,13 @@
       "userId": 2,
       "travelId": 2,
       "id": 3
+    },
+    {
+      "month": "agosto",
+      "value": 500,
+      "userId": 2,
+      "travelId": 2,
+      "id": 3
     }
   ]
 }
